@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/TPSurface parametriques
+# Install script for directory: C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/TD_TP Surface parametriques
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/TPSurface_paramétriques")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/TPSurface_parametriques")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/TPSurface parametriques/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/TD_TP Surface parametriques/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
