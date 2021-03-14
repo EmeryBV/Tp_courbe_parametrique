@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\TPSurface_parametriques.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\TPSurface_parametriques.dir/objects.a @CMakeFiles\TPSurface_parametriques.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TPSurface_parametriques.dir/objects.a -Wl,--no-whole-archive  -o TPSurface_parametriques.exe -Wl,--out-implib,libTPSurface_parametriques.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TPSurface_parametriques.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/TPSurface parametriques/cmake-build-debug/CMakeFiles/TPSurface_parametriques.dir
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/TPSurface parametriques/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emery/Desktop/Master IMAGINA 1/Modelisation et conception 3D/TPSurface parametriques/cmake-build-debug/CMakeFiles/rebuild_cache.dir
